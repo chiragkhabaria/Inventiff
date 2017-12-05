@@ -424,6 +424,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background-color: #222222;
 	color: #777;
 	padding: 15px 0 10px 0;
+	text-align: center;
 }
 #footer p {
 	font-size: 13px;
